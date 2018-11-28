@@ -1,0 +1,2 @@
+
+B/m/vinci8/data1/riedel/corpora/nyt/nyt/data/2005/10/21/1711188.xml
